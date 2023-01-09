@@ -5,7 +5,7 @@ const {
 const bot = new Client();
 const ytdl = require("ytdl-core")
 
-const tonken = 'OTQ2ODgyNzgyNzk2MzE2NzAy.GmruUY.d-LEpr_YWre0e2UK-K4hzVOF9ABL9-arTo1DdQ';
+const tonken = 'token';
 
 const prefix = "f!";
 
